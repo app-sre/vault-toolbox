@@ -6,10 +6,6 @@ Related upstream issues
 * [#885 delete all secrets under a path](https://github.com/hashicorp/vault/issues/885)
 * [#2414 Add ability to move or rename a folder](https://github.com/hashicorp/vault/issues/2414)
 
-# Demo
-
-[![asciicast](https://asciinema.org/a/iHMUcYTnMlKGdeuhuIR1IwjB7.svg)](https://asciinema.org/a/iHMUcYTnMlKGdeuhuIR1IwjB7)
-
 # Disclaimer
 The code within this repository comes with no guarantee, the use of this code is your responsibility. 
 
